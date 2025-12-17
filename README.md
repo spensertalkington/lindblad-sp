@@ -2,7 +2,7 @@
 
 ```example-rice-mele``` provides test cases for the functions provided as class member functions of ```LindbladBoseSP``` and ```LindbladFermiSP``` with the Rice-Mele model for a 1D tight-binding chain. Sample response functions include
 
-- Density
+- Momentum resolved density of particles
 - Spectral function
 - Energy bands and relaxation rates
 - Diamagnetic linear response
