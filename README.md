@@ -11,4 +11,4 @@
 
 Key choices are ```species``` which can either be ```bose``` for bosons or ```fermi``` for fermions, and ```is_nambu``` which must be set ```True``` if there are anomalous terms $C\neq 0$ or $\Delta\neq 0$, and can be set ```False``` otherwise.
 
-This code is related to the paper [S. Talkington and M. Claassen, "Linear and non-linear response of quadratic Lindbladians",  npj Quantum Materials 9, 104 (2024)](https://doi.org/10.1038/s41535-024-00709-4).
+This code is related to the paper [S. Talkington and M. Claassen, _Linear and non-linear response of quadratic Lindbladians_,  npj Quantum Materials 9, 104 (2024)](https://doi.org/10.1038/s41535-024-00709-4).
