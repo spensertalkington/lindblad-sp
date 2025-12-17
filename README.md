@@ -9,4 +9,4 @@
 - Paramagnetic linear response
 - Nonlinear optical response (shift/second harmonic generation)
 
-This code is related to the paper [https://doi.org/10.1038/s41535-024-00709-4][S. Talkington and M. Claassen, npj Quantum Materials 9, 104 (2024)].
+This code is related to the paper [S. Talkington and M. Claassen, npj Quantum Materials 9, 104 (2024)](https://doi.org/10.1038/s41535-024-00709-4).
